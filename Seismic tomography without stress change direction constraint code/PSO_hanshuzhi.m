@@ -18,10 +18,10 @@ pic1=x;
 %送入的x为待求解的一个个体，应取整
 %x=round(x);%取整
 c_tupian='diceng_50_50.bmp';
-c_StartV=300;
-c_EndV=600;
-c_RealXLength=2000;
-c_RealYLength=500;
+c_StartV=30;
+c_EndV=60;
+c_RealXLength=200;
+c_RealYLength=50;
 c_NofPoints=2;%50*50图像时改为2
 %TheoArrTime=0;%!!!!!!must be changed correct
 myjpg=imread(c_tupian);
